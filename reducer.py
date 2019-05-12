@@ -61,4 +61,4 @@ for line in sys.stdin:
     previous_key = key
 
 # write the last result to stdout
-sys.stdout.write("{0}\t{1}\n".format(previous_key, count_of_values)
+sys.stdout.write("{0}\t{1}\n".format(previous_key, sum_of_values)
