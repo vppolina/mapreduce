@@ -45,4 +45,8 @@ for line in sys.stdin:
     date, time, item, category, sales, payment = data
     if category == c1:
 	sys.stdout.write("{0}\t{1}\n".format(category, sales))
+    elif category == c2:
+	sys.stdout.write("{0}\t{1}\n".format(category, sales))
+    elif category == c3:
+	sys.stdout.write("{0}\t{1}\n".format(category, sales))
     else: continue
