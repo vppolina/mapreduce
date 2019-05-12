@@ -1,0 +1,346 @@
+Cameras	101.7
+Cameras	103.87
+Cameras	108.12
+Cameras	110.33
+Cameras	115.57
+Cameras	119.28
+Cameras	132.7
+Cameras	141.74
+Cameras	141.82
+Cameras	147.89
+Cameras	156.54
+Cameras	156.62
+Cameras	157.43
+Cameras	163.5
+Cameras	166.77
+Cameras	170.38
+Cameras	173.9
+Cameras	180.85
+Cameras	185.18
+Cameras	187.63
+Cameras	192.89
+Cameras	192.92
+Cameras	193.34
+Cameras	195.15
+Cameras	201.53
+Cameras	202.69
+Cameras	210.69
+Cameras	216.32
+Cameras	217.34
+Cameras	220.4
+Cameras	222.58
+Cameras	224.02
+Cameras	22.91
+Cameras	229.74
+Cameras	230.91
+Cameras	232.41
+Cameras	232.7
+Cameras	23.33
+Cameras	250.07
+Cameras	253.3
+Cameras	254.23
+Cameras	255.08
+Cameras	259.16
+Cameras	259.79
+Cameras	260.74
+Cameras	265.57
+Cameras	266.25
+Cameras	272.7
+Cameras	273.53
+Cameras	281.83
+Cameras	284.41
+Cameras	288.23
+Cameras	293.11
+Cameras	295.41
+Cameras	297.93
+Cameras	297.95
+Cameras	305.48
+Cameras	307.96
+Cameras	309.1
+Cameras	320.41
+Cameras	323.53
+Cameras	32.53
+Cameras	341.2
+Cameras	34.69
+Cameras	352.47
+Cameras	357.12
+Cameras	36.16
+Cameras	367.16
+Cameras	379.09
+Cameras	379.27
+Cameras	380.63
+Cameras	38.11
+Cameras	394.31
+Cameras	398.42
+Cameras	400.23
+Cameras	400.24
+Cameras	404.3
+Cameras	416.07
+Cameras	423.55
+Cameras	423.88
+Cameras	427.61
+Cameras	431.34
+Cameras	432.7
+Cameras	433.26
+Cameras	435.14
+Cameras	447.19
+Cameras	450.46
+Cameras	452.6
+Cameras	454.58
+Cameras	454.69
+Cameras	45.78
+Cameras	459.57
+Cameras	460.43
+Cameras	465.34
+Cameras	471.93
+Cameras	488.78
+Cameras	492.09
+Cameras	5.66
+Cameras	5.84
+Cameras	59.73
+Cameras	62.72
+Cameras	65.26
+Cameras	66.75
+Cameras	67.86
+Cameras	70.18
+Cameras	74.55
+Cameras	8.02
+Cameras	80.67
+Cameras	82.24
+Cameras	88.02
+Cameras	88.93
+Cameras	89.83
+Cameras	91.7
+Cameras	97.87
+Computers	109.43
+Computers	111.04
+Computers	111.58
+Computers	115.67
+Computers	116.47
+Computers	117.2
+Computers	117.44
+Computers	11.84
+Computers	121.3
+Computers	121.46
+Computers	123.22
+Computers	129.28
+Computers	140.71
+Computers	160.08
+Computers	161.66
+Computers	169.57
+Computers	171.93
+Computers	173.68
+Computers	176.24
+Computers	177.18
+Computers	180.42
+Computers	180.93
+Computers	184.72
+Computers	188.19
+Computers	193.03
+Computers	206.99
+Computers	209.31
+Computers	209.65
+Computers	213.87
+Computers	21.69
+Computers	220.06
+Computers	225.9
+Computers	232.09
+Computers	232.22
+Computers	236.47
+Computers	236.56
+Computers	242.04
+Computers	25.72
+Computers	261.76
+Computers	272.72
+Computers	273.82
+Computers	275.99
+Computers	284.43
+Computers	293.81
+Computers	294.01
+Computers	295.6
+Computers	2.98
+Computers	301.41
+Computers	301.62
+Computers	304.14
+Computers	306.37
+Computers	313.13
+Computers	316.67
+Computers	317.14
+Computers	32.96
+Computers	33.45
+Computers	33.84
+Computers	338.49
+Computers	340.67
+Computers	344.29
+Computers	350.95
+Computers	356.23
+Computers	357.25
+Computers	36
+Computers	361.7
+Computers	362.99
+Computers	369.1
+Computers	370.82
+Computers	374
+Computers	376.23
+Computers	377.03
+Computers	38.4
+Computers	388.21
+Computers	389.25
+Computers	393.21
+Computers	399.93
+Computers	401.5
+Computers	402.82
+Computers	418.36
+Computers	422.12
+Computers	431.42
+Computers	43.16
+Computers	444.59
+Computers	45.02
+Computers	456.34
+Computers	459.65
+Computers	464.91
+Computers	46.67
+Computers	469.55
+Computers	47.15
+Computers	474
+Computers	475.31
+Computers	483.44
+Computers	483.8
+Computers	484.61
+Computers	485.35
+Computers	486.29
+Computers	489.67
+Computers	495.7
+Computers	496.57
+Computers	496.6
+Computers	496.63
+Computers	52.53
+Computers	5.34
+Computers	53.98
+Computers	57.56
+Computers	58.73
+Computers	78.87
+Computers	7.92
+Computers	80.42
+Computers	80.74
+Computers	83.37
+Computers	86.72
+Computers	90.01
+Computers	90.31
+Computers	91.53
+Computers	93.92
+Video Games	112.27
+Video Games	11.27
+Video Games	114.59
+Video Games	115.01
+Video Games	119.4
+Video Games	121.73
+Video Games	122.87
+Video Games	124.75
+Video Games	129.26
+Video Games	133.37
+Video Games	135.68
+Video Games	144.73
+Video Games	147.12
+Video Games	148.02
+Video Games	149.25
+Video Games	155.67
+Video Games	156.93
+Video Games	157.35
+Video Games	160.78
+Video Games	163.64
+Video Games	166.64
+Video Games	17.5
+Video Games	17.89
+Video Games	184.85
+Video Games	195.03
+Video Games	196.31
+Video Games	201.57
+Video Games	202.32
+Video Games	202.67
+Video Games	209.19
+Video Games	209.43
+Video Games	209.89
+Video Games	212.25
+Video Games	217.66
+Video Games	217.74
+Video Games	221.25
+Video Games	221.76
+Video Games	228.18
+Video Games	232.75
+Video Games	245.08
+Video Games	250.27
+Video Games	255.65
+Video Games	259.12
+Video Games	263.74
+Video Games	268.71
+Video Games	272.54
+Video Games	275.1
+Video Games	277.46
+Video Games	299.69
+Video Games	300.45
+Video Games	302.12
+Video Games	3.18
+Video Games	319.95
+Video Games	323.19
+Video Games	326.62
+Video Games	32.8
+Video Games	328.43
+Video Games	328.66
+Video Games	343.46
+Video Games	345.61
+Video Games	353.27
+Video Games	354.43
+Video Games	358.55
+Video Games	359.49
+Video Games	36.47
+Video Games	364.79
+Video Games	36.75
+Video Games	368.98
+Video Games	382.08
+Video Games	384.29
+Video Games	384.79
+Video Games	388.09
+Video Games	389.83
+Video Games	389.97
+Video Games	390.3
+Video Games	394.28
+Video Games	394.31
+Video Games	395.59
+Video Games	400.7
+Video Games	407.37
+Video Games	407.71
+Video Games	408.14
+Video Games	41.22
+Video Games	412.28
+Video Games	414.29
+Video Games	417.23
+Video Games	418.61
+Video Games	41.99
+Video Games	420.07
+Video Games	422.43
+Video Games	424.16
+Video Games	42.88
+Video Games	436.35
+Video Games	436.75
+Video Games	43.88
+Video Games	442.52
+Video Games	44.39
+Video Games	444.06
+Video Games	445.36
+Video Games	458.49
+Video Games	467.08
+Video Games	470.6
+Video Games	477.44
+Video Games	489.02
+Video Games	492.55
+Video Games	495.18
+Video Games	497.54
+Video Games	498.22
+Video Games	54.08
+Video Games	77.34
+Video Games	79.88
+Video Games	84.49
+Video Games	85.59
+Video Games	85.91
+Video Games	94.91
