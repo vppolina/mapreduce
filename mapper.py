@@ -3,7 +3,13 @@
 
 # Import the sys library 
 # for writing and reading the standard input and output
+
+c1 = "Computers"
+c2 = "Cameras"
+c3 = "Video Games"
+
 import sys
+
 
 # Example Input data (minipurchase.txt)
 # Input is tabulator (\t) separated
