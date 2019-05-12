@@ -37,7 +37,6 @@ for line in sys.stdin:
 
     # store the 6 elements of the tuple in seperate variables
     date, time, item, category, sales, payment = data
-    if len(data) != 6:
-	print("Error")
-	break;
-    else: sys.stdout.write("{0}\t{1}\n".format(category, sales))
+    if category == c1:
+	sys.stdout.write("{0}\t{1}\n".format(category, sales))
+    else: continue
