@@ -46,7 +46,7 @@ for line in sys.stdin:
         # to the standart output (stdout)
         # Key and value are seperated by a tab (\t)
         # Line ends with new line (\n)
-        sys.stdout.write("{0}\t{1}\n".format(previous_key, count_of_values))
+        sys.stdout.write("{0}\t{1}\n".format(previous_key, count_of_values, sum_of_values))
         # Sum of sales starts again with 0
         count_of_values = 0
         sum_of_values = 0
@@ -59,7 +59,8 @@ for line in sys.stdin:
     sum_of_values = float(value)
     # the previous key for the next iteration is the current key of the this iteration 
     previous_key = key
+    avg = sum_of_values/count_of_values
+    sys.stdout.write("{0}\t{1}\n".format(previous_key, avg))
 
 # write the last result to stdout
-for line in sys.stdin:
-    sys.stdout.write("{0}\t{1}\n".format(previous_key, sum_of_values/count_of_values))
+sys.stdout.write("{0}\t{1}\n".format(previous_key, avg))
